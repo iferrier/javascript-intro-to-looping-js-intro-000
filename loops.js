@@ -32,7 +32,7 @@ function doWhileLoop(num) {
 var array = [];
 var n= 5;
 var num = 10;
-var i = 0;
+var i = 10;
 
 forLoop (array);
 
